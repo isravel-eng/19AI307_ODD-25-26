@@ -130,30 +130,9 @@ public class StudentSerializationUserInput {
 }
 ```
 
-## SAMPLE INPUT:
-
-```text
-2
-101
-Alice
-89.5
-102
-Bob
-92.0
-```
-
-## SAMPLE OUTPUT:
-
-```text
-Students serialized successfully into: students.dat
-Students deserialized successfully from: students.dat
-
-Deserialized Students:
-Student{id=101, name='Alice', marks=89.5}
-Student{id=102, name='Bob', marks=92.0}
-```
-
 ## OUTPUT:
+
+<img width="858" height="540" alt="Screenshot 2026-09-17 201022" src="https://github.com/user-attachments/assets/a6cb657b-6d02-42c4-aebd-135cb0bd8019" />
 
 
 ## RESULT:
