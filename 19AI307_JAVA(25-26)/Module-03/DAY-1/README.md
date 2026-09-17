@@ -72,6 +72,8 @@ Jeeva
 
 ## OUTPUT:
 
+<img width="497" height="637" alt="Screenshot 2026-09-17 172039" src="https://github.com/user-attachments/assets/57824c38-3a52-4ab5-92fa-256ebcaf674d" />
+
 
 ## RESULT:
 
