@@ -56,9 +56,6 @@ Wrapper object: 25
 Unboxed value: 25
 ```
 
-## OUTPUT:
-
-
 ## RESULT:
 
 Thus, the Java program to demonstrate the Integer Wrapper Class using autoboxing and unboxing was executed successfully.
