@@ -109,6 +109,8 @@ HOT
 
 ## OUTPUT:
 
+<img width="353" height="245" alt="Screenshot 2026-09-17 172850" src="https://github.com/user-attachments/assets/9478255e-be76-4212-bfad-11e90d78dba6" />
+
 
 ## RESULT:
 
