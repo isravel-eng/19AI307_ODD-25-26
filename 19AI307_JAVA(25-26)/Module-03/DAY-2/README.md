@@ -1,3 +1,4 @@
+
 # Ex.No:3(b) POLYMORPHISM
 
 ## QUESTION:
@@ -87,6 +88,7 @@ class AreaCalculate{
 
 ## OUTPUT:
 
+<img width="885" height="473" alt="Screenshot 2026-09-17 172347" src="https://github.com/user-attachments/assets/742e1706-c533-4b0a-b39f-6942ac713035" />
 
 ## RESULT:
 
