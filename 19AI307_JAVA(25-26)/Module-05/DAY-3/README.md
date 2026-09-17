@@ -47,17 +47,10 @@ public class prog{
 }
 ```
 
-## SAMPLE INPUT:
-
-No keyboard input is required.
-
-## SAMPLE OUTPUT:
-
-```text
-Successfully wrote to the file.
-```
 
 ## OUTPUT:
+
+<img width="797" height="231" alt="image" src="https://github.com/user-attachments/assets/108ddf31-579c-4fce-882b-776c006e9b31" />
 
 
 ## RESULT:
