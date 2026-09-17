@@ -1,4 +1,4 @@
-# Ex.No:3(E) INNER CLASS
+# Ex.No:3(E) INNER CLASS/ ENUM
 
 ## QUESTION:
 
@@ -95,21 +95,9 @@ public class prog{
     }
 }
 ```
-
-## SAMPLE INPUT:
-
-```text
-winter
-```
-
-## SAMPLE OUTPUT:
-
-```text
-It's cold outside. Stay warm!
-```
-
 ## OUTPUT:
 
+<img width="982" height="322" alt="Screenshot 2026-09-17 173043" src="https://github.com/user-attachments/assets/6cc6c340-5be3-4dea-bf3b-6eb1db5d7d82" />
 
 ## RESULT:
 
