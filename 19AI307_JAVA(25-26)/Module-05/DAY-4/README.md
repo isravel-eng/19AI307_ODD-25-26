@@ -56,21 +56,9 @@ public class prog{
 }
 ```
 
-## SAMPLE INPUT:
-
-```text
-NewThread
-```
-
-## SAMPLE OUTPUT:
-
-```text
-Priority of Thread: 5
-Name of Thread: NewThread
-Thread[NewThread,5,main]
-```
-
 ## OUTPUT:
+
+<img width="717" height="273" alt="image" src="https://github.com/user-attachments/assets/8802a152-29c6-47a4-92ac-357494319094" />
 
 
 ## RESULT:
