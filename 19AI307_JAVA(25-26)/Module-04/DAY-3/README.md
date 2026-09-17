@@ -80,25 +80,9 @@ class Library {
 }
 ```
 
-## SAMPLE INPUT:
-
-```text
-2
-Java
-James Gosling
-Python
-Guido Van Rossum
-```
-
-## SAMPLE OUTPUT:
-
-```text
-Books in Library:
-- Java by James Gosling
-- Python by Guido Van Rossum
-```
-
 ## OUTPUT:
+
+<img width="866" height="631" alt="Screenshot 2026-09-17 183800" src="https://github.com/user-attachments/assets/9c66d993-bac3-4104-945b-4a1c82300158" />
 
 
 ## RESULT:
