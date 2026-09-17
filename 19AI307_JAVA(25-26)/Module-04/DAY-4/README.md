@@ -124,20 +124,10 @@ public class prog{
 }
 ```
 
-## SAMPLE INPUT:
-
-```text
-dark
-```
-
-## SAMPLE OUTPUT:
-
-```text
-Dark Button created
-Dark Checkbox created
-```
 
 ## OUTPUT:
+
+<img width="671" height="375" alt="Screenshot 2026-09-17 185352" src="https://github.com/user-attachments/assets/5c3b4f41-50f4-4f07-978c-235ebe7b8df0" />
 
 
 ## RESULT:
