@@ -102,27 +102,10 @@ public class prog {
 }
 ```
 
-## SAMPLE INPUT:
-
-```text
-3
-S1 75
-S2 120
-S3 250
-```
-
-## SAMPLE OUTPUT:
-
-```text
-Sensor S1 reports AQI: 75
-[GreenZoneController]: AQI is good at Sensor S1. No action needed.
-Sensor S2 reports AQI: 120
-[AlertZoneController]: Moderate AQI at Sensor S2. Send public health alert.
-Sensor S3 reports AQI: 250
-[DangerZoneController]: Critical AQI at Sensor S3! Trigger lockdown protocol.
-```
 
 ## OUTPUT:
+
+<img width="856" height="385" alt="Screenshot 2026-09-17 183644" src="https://github.com/user-attachments/assets/3af47997-b969-4f3a-92b3-5787565369e4" />
 
 
 ## RESULT:
