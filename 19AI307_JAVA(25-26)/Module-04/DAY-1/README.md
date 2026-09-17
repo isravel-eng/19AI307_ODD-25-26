@@ -49,19 +49,9 @@ public class SafeDivision {
 }
 ```
 
-## SAMPLE INPUT:
-
-```text
-20 5
-```
-
-## SAMPLE OUTPUT:
-
-```text
-Result: 4
-```
-
 ## OUTPUT:
+
+<img width="697" height="395" alt="Screenshot 2026-09-17 183432" src="https://github.com/user-attachments/assets/9e5135d4-a889-4180-abb7-43c97e2343ab" />
 
 
 ## RESULT:
