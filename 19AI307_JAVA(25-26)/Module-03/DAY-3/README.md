@@ -159,42 +159,10 @@ public class prog{
 }
 ```
 
-## SAMPLE INPUT 1:
-
-```text
-5
-alpha
-echo
-bravo
-oslo
-omega
-1
-```
-
-## SAMPLE OUTPUT 1:
-
-```text
-osloechoomegabravoalpha
-```
-
-## SAMPLE INPUT 2:
-
-```text
-4
-level
-radar
-agent
-pop
-2
-```
-
-## SAMPLE OUTPUT 2:
-
-```text
-lvl-rdr-pp
-```
 
 ## OUTPUT:
+
+<img width="653" height="540" alt="Screenshot 2026-09-17 172719" src="https://github.com/user-attachments/assets/9a4c33ba-d7ae-435d-a803-babacd6f92e2" />
 
 
 ## RESULT:
