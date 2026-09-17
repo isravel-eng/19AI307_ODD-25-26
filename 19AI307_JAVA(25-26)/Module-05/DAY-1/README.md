@@ -61,22 +61,10 @@ public class ChainingStreamsExample {
 }
 ```
 
-## SAMPLE INPUT:
-
-```text
-Ram
-25
-```
-
-## SAMPLE OUTPUT:
-
-```text
---- User Details ---
-Name: Ram
-Age: 25
-```
 
 ## OUTPUT:
+
+<img width="656" height="560" alt="Screenshot 2026-09-17 200708" src="https://github.com/user-attachments/assets/44e16bcc-aaaf-4492-bb7c-745d754472e1" />
 
 
 ## RESULT:
