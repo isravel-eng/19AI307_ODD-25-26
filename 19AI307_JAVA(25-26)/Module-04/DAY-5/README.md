@@ -122,26 +122,9 @@ public class ProductManagementSystem {
 }
 ```
 
-## SAMPLE INPUT:
-
-```text
-Laptop 50000 P101 55000
-```
-
-## SAMPLE OUTPUT:
-
-```text
---- Product Details ---
-Name : Laptop
-Price: 50000.0
-Code : P101
---- Product Details ---
-Name : Laptop
-Price: 55000.0
-Code : P101
-```
-
 ## OUTPUT:
+
+<img width="653" height="402" alt="Screenshot 2026-09-17 185453" src="https://github.com/user-attachments/assets/5cf442af-a680-4b53-a7e3-6e8b616eb291" />
 
 
 ## RESULT:
