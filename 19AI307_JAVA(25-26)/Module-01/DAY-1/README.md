@@ -58,6 +58,9 @@ To write a Java program that demonstrates the use of `print()`, `println()`, and
 ## PROGRAM:
 
 ```java
+Developed by : ISRAVEL Y
+Register no  : 212225240054
+
 import java.util.Scanner;
 
 public class prog {
@@ -97,25 +100,8 @@ public class prog {
 
 ## OUTPUT:
 
-### Input
+<img width="747" height="348" alt="image" src="https://github.com/user-attachments/assets/c0b2fc0a-ac99-44a2-a9a1-5d4e3b78eee2" />
 
-```text
-Lovely
-20
-3.14
-```
-
-### Output
-
-```text
-Hello, Lovely
-You are 20 years old
-Your favorite number is 3.14
-```
-
-### Output Screenshot
-
-> Add the program output screenshot here.
 
 ## RESULT:
 
