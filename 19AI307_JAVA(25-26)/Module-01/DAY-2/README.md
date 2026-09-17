@@ -96,21 +96,8 @@ public class Main {
 
 ## OUTPUT:
 
-### Input
+<img width="432" height="307" alt="image" src="https://github.com/user-attachments/assets/c511897b-80c4-4773-a283-a0091443c67d" />
 
-```text
-42
-```
-
-### Output
-
-```text
-Weak Code
-```
-
-### Output Screenshot
-
-> **Screenshot:** Insert the screenshot of the program execution/output here.
 
 ## RESULT:
 
