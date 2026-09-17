@@ -74,24 +74,9 @@ public class prog {
 }
 ```
 
-## SAMPLE INPUT:
-
-```text
-3
-5
-10
-15
-```
-
-## SAMPLE OUTPUT:
-
-```text
-Result: 10
-Result: 20
-Result: 30
-```
-
 ## OUTPUT:
+
+<img width="490" height="541" alt="Screenshot 2026-09-17 201547" src="https://github.com/user-attachments/assets/babdafa3-61de-442e-a01f-865a6c7edfc6" />
 
 
 ## RESULT:
